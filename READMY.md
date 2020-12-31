@@ -1,3 +1,4 @@
 # toolchain
-webdev toolchain using
+Webdev toolchain.
+
 This project was created for webdev toolchains learning.
